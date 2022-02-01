@@ -4,7 +4,8 @@
     "description": "A plugin for oauth with instagram on attic",
     "main": "lib/Atticfile.js",
     "publishConfig": {
-        "registry": "https://registry.npmjs.org"
+      "access": "public",
+      "registry": "https://registry.npmjs.org"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
