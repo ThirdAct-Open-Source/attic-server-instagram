@@ -1,5 +1,5 @@
 Attic Server Instagram
-Copyright (C) 2022 Third Act LLC <zach@thirdact.digital>
+Copyright (C) 2022 Third Act Digital LLC <zach@thirdact.digital>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Publi=c License as published by
