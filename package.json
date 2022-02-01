@@ -1,6 +1,6 @@
 {
     "name": "@thirdact/attic-server-instagram",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A plugin for oauth with instagram on attic",
     "main": "lib/Atticfile.js",
     "publishConfig": {
@@ -19,7 +19,7 @@
     "contributors": [
         {
             "name": "Third Act Team",
-            "email": "open-source@etomon.com",
+            "email": "zach@thirdact.digital",
             "url": "https://thirdact.digital"
         }
     ],
